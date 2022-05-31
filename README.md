@@ -30,3 +30,5 @@
 
 
 [Visualizza la spiegazione del progetto](./user-man.md)
+
+[Repository in inglese](https://github.com/bored-irl/login4javaEN)
